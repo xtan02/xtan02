@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my Github
 
-<!--
-**xtan02/xtan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT
 
-Here are some ideas to get you started:
+这里是谈欣的 Github 主页，我是来自湖北第二师范学院数学与统计学院的数学系学生谈欣，在课余时间喜欢基于 Python、 LaTeX等做一些小项目，不足挂齿，但只求完成项目时的满足感。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+欢迎您前往我的主页以了解我：
+>https://xtan02.gitee.io
+
+同时如果您需要与我取得联系，欢迎邮件联系：
+>xtan02@foxmail
+
+## MY PROJECT
