@@ -8,6 +8,6 @@
 >https://xtan02.gitee.io
 
 同时如果您需要与我取得联系，欢迎邮件联系：
->mailto:xtan02@foxmail
+<a href="mailto:xtan02@foxmail">xtan02@foxmail</a>
 
 ## MY PROJECT
