@@ -9,7 +9,7 @@
 欢迎您前往我的主页以了解我：<a href="https://xtan02.gitee.io">https://xtan02.gitee.io</a>
 
 同时如果您需要与我取得联系，欢迎邮件联系：
-<a href="mailto:xtan02@foxmail">xtan02@foxmail</a>
+<a href="mailto:xtan02@foxmail">xtan02@foxmail.com</a>
 
 <br><br>
 
